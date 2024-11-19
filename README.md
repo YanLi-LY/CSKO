@@ -8,7 +8,7 @@ This is the implementation of the paper "Center-Sensitive Kernel Optimization fo
 - cuda 12.1
 
 ## Preparing Datasets
-Download the following datasets and place them in folder "./Data":
+### Download the following datasets and place them in folder "./Data":
 > #### 1. CIFAR-100
 > #### 2. Tiny-ImageNet
 > Datasets are available on our [[Google Drive](https://drive.google.com/drive/folders/1Vh7UOmEUgk-CJob_OGJxRpRu8TeOmzL0?usp=drive_link)].
