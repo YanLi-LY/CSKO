@@ -63,7 +63,7 @@ def main():
     parser.add_argument('--channel_sparsity', type=float, default=0.75)
     parser.add_argument('--thres', type=int, default=5)
     parser.add_argument('--train_layers_path', type=str, default='config.yaml')
-    parser.add_argument('--adapter_layers_path', type=str, default='adapter.yaml')
+    parser.add_argument('--adapter_layers_path', type=str, default='branch.yaml')
     parser.add_argument('--GF_cfg_path', type=str, default='./utils/model/GF_cfg.yaml')
 
     args = parser.parse_args()
