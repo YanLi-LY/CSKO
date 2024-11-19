@@ -1,0 +1,6 @@
+if_gradient_filter: True
+filter_install_cfgs:
+  - filter_layer: "layer4.1"
+    layer_type: "adapter_block"
+    filter_patch_size: 2
+
